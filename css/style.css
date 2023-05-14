@@ -206,3 +206,69 @@ border-width: 0;
 border-style: solid;
 border-color: #e5e7eb;
 }
+
+.mydiv{
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1) !important;
+  transition-duration: 500ms !important;
+  font-size: 2.25rem !important;
+line-height: 2.5rem !important;
+border-radius: 0.75rem !important;
+margin-left: auto !important;
+margin-right: auto !important;
+display: flex !important;
+top: 50% !important;
+}
+
+.mydropel{
+  width: 2rem !important;
+  height: 2rem !important;
+  display: block;
+  margin-left: 195px;
+  color: #4F46E5;
+
+}
+
+.mylink{
+  font-weight: 500 !important;
+  font-size: 1.25rem !important;
+line-height: 1.75rem !important;
+color: inherit;
+text-decoration: inherit;
+text-align: center;
+margin-left: 160px;
+}
+
+.mysentence{
+  margin-top: 0.75rem !important;
+  line-height: 1.625;
+  margin: 0;
+  text-align: center;
+  color: #A7B3C4;
+
+}
+.mydropel1{
+  width: 2rem !important;
+  height: 2rem !important;
+  display: block;
+  margin-left: 185px;
+  color: #4F46E5;
+
+}
+
+.mylink1{
+  font-weight: 500 !important;
+  font-size: 1.25rem !important;
+line-height: 1.75rem !important;
+color: inherit;
+text-decoration: inherit;
+text-align: center;
+margin-left: 140px;
+}
+
+.mysentence1{
+  margin-top: 0.75rem !important;
+  line-height: 1.625;
+  margin: 0;
+  text-align: center;
+  color: #A7B3C4;
+}
