@@ -272,3 +272,59 @@ margin-left: 140px;
   text-align: center;
   color: #A7B3C4;
 }
+
+.mypicture{
+  max-width: 440px !important;
+  margin-left: auto !important;
+margin-right: auto !important;
+height: auto;
+display: block;
+}
+
+.myuntertitel{
+  line-height: 1.5 !important;
+  font-weight: 500 !important;
+  font-size: 1.5rem !important;
+  margin-bottom: 1rem !important;
+  margin: 0;
+}
+
+.mypara{
+  line-height: 1.625;
+  margin: 0;
+  color: #A7B3C4;
+}
+
+.myul{
+  list-style-type: none !important;
+  margin-top: 1rem !important;
+  margin: 0;
+  list-style: none;
+  padding: 0;
+  color: #A7B3C4;
+  
+}
+
+.mylist{
+  display: flex !important;
+  margin-bottom: 0.25rem !important;
+  margin-right: 20px;
+  
+}
+
+.myicon{
+  font-size: 1.25rem !important;
+line-height: 1.75rem !important;
+margin-inline-end: 0.5rem !important;
+color: #4F46E5;
+margin-right: 20px;
+}
+
+.mybild{
+  max-width: 440px !important;
+  margin-left: auto !important;
+margin-right: auto !important;
+height: auto;
+display: block;
+margin-right: 20px;
+}
