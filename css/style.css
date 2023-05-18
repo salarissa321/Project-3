@@ -328,3 +328,45 @@ height: auto;
 display: block;
 margin-right: 20px;
 }
+
+.mytitel{
+  margin-bottom: 0.5rem !important;
+  font-size: 1rem !important;
+line-height: 1.5rem !important;
+color: #4F46E5;
+text-align: center;
+}
+
+.mysubtitel{
+  line-height: 1.5 !important;
+  font-size: 1.875rem !important;
+  font-weight: 600 !important;
+  margin-bottom: 1rem !important;
+  margin: 0;
+  text-align: center;
+}
+
+.myphrase{
+  max-width: 36rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  line-height: 1.625;
+  margin: 0;
+  text-align: center;
+  color: #A7B3C4;
+
+}
+.card{
+margin-top: 30px;
+margin-left: 100px;
+}
+
+.icon{
+  color: #4F46E5;
+  margin-left: 110px;
+}
+
+.card-text{
+  color: #A7B3C4;
+  text-align: center;
+}
